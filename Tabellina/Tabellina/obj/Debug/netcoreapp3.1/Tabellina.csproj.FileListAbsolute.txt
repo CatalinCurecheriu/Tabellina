@@ -1,0 +1,28 @@
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.exe
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.deps.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.runtimeconfig.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.runtimeconfig.dev.json
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.dll
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.pdb
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.GeneratedMSBuildEditorConfig.editorconfig
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.AssemblyInfoInputs.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.AssemblyInfo.cs
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.dll
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.pdb
+Z:\percorso ERP developer\alunni\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.genruntimeconfig.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.exe
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.deps.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.runtimeconfig.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.runtimeconfig.dev.json
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.dll
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\bin\Debug\netcoreapp3.1\Tabellina.pdb
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.csproj.AssemblyReference.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.AssemblyInfoInputs.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.AssemblyInfo.cs
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.csproj.CoreCompileInputs.cache
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.dll
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.pdb
+C:\Users\porci\Desktop\programmazione\C#\erp file\Catalin Curecheriu\Tabellina\Tabellina\obj\Debug\netcoreapp3.1\Tabellina.genruntimeconfig.cache
